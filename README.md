@@ -1,4 +1,5 @@
-## *Caso de Estudio 002FQ*: **Realizar un estudio sobre si el dinero hace feliz a las personas**
+## Caso de Estudio 002FQ
+**Realizar un estudio sobre si el dinero hace feliz a las personas**
 
 **Fuentes y Datos:**
 
